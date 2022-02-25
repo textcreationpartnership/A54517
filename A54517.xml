@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the present estate of Ireland in a letter written from one Master Peters in Dublin to one Sir Robert Iones a knight, resident in the citie of London which came to him the 17 of February, Anno Dom. 1642 : as also the flight from thence upon the coming of Captaine Pollard and some Scotch regiments against them, with the losse of the towne and all their ammunition to our English forces / by R.P.</title>
+            <author>Peters, John, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54517</idno>
+            <idno type="STC">Wing P1726A</idno>
+            <idno type="STC">ESTC R28433</idno>
+            <idno type="EEBO-CITATION">10594534</idno>
+            <idno type="OCLC">ocm 10594534</idno>
+            <idno type="VID">45323</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54517)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45323)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1408:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the present estate of Ireland in a letter written from one Master Peters in Dublin to one Sir Robert Iones a knight, resident in the citie of London which came to him the 17 of February, Anno Dom. 1642 : as also the flight from thence upon the coming of Captaine Pollard and some Scotch regiments against them, with the losse of the towne and all their ammunition to our English forces / by R.P.</title>
+                  <author>Peters, John, 17th cent.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: John Peters.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45323:1"/>
+            <p>A TRVE RELATION OF THE PRESENT ESTATE OF IRELAND: In a Letter written from one Maſter <hi>Peters</hi> in <hi>Dublin,</hi> to one Sir <hi>Robert Iones</hi> a Knight, reſident in the Citie of LONDON: which came to him the 17. of <hi>February. Anno Dom.</hi> 1642.</p>
+            <p>As alſo their flight from thence upon the com<g ref="char:EOLhyphen"/>ming of Captaine <hi>Pollard,</hi> and ſome <hi>Scotch</hi> Regiments againſt them; with the loſſe of the Towne, and all their Ammunition to our <hi>Engliſh</hi> forces.</p>
+            <p>By R.P.</p>
+            <p>
+               <hi>London</hi> printed for <hi>W. Wright.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:45323:2"/>
+            <pb n="1" facs="tcp:45323:2"/>
+            <head>A true Relation of the preſent eſtate of IRELAND.</head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E here rejoyce much at the care and en<g ref="char:EOLhyphen"/>deavours of the High Court of Parlia<g ref="char:EOLhyphen"/>ment in that Kingdome, to ſend us time<g ref="char:EOLhyphen"/>ly ayde and aſſiſtance of men, money, and ammunition againſt the Rebels; by whom other<g ref="char:EOLhyphen"/>wiſe this Citie had beene (ere this time) made a prey. The laſt forces that came over did us great pleaſure: We have alſo here landed forces from <hi>Scotland,</hi> under the command of that valiant Soul<g ref="char:EOLhyphen"/>dier Generall <hi>Leſley,</hi> by whom likewiſe wee have beene much ſtrengthned and encourageed to defend our Citie and perſons, families and eſtates, which are begirt and beſieged with at leaſt 50000 Rebels, who have received ayde and reliefe from <hi>France</hi> and other parts, that much encourageth them: Yet are they not ſo terrible to us, or doe we ſo much feare them, as the treacherous deſignes privatly practiſed by Papiſts and their adherents, inhabiting in the
+<pb n="2" facs="tcp:45323:3"/>City; which dare to be ſo preſumptuous as to wiſh publiquely proſperity to the Rebels; and ſpeak in great favour of their cauſe, which cauſeth in us juſt ſuſpition of their evill intentions, confirmed alſo by the open ſpeeches of the Rebels, who have ſaid, that if the Citie were not the ſooner yeelded up to them, they hoped to finde friends in the ſame, that would ſet the ſame on fire. Alſo the daily revolt<g ref="char:EOLhyphen"/>ing of Souldiers to the Rebels which come from <hi>England,</hi> who outwardly pretend faire, but when imployed in ſervice againſt them, they revolt to them; which puts us in great feare who to truſt in that imployment: Therefore our hearty deſires are that the Parliament would be pleaſed to ſend over (as neare as they can) both ſuch Commanders and Souldiers as are good Proteſtants, and altoge<g ref="char:EOLhyphen"/>ther diſaffected to the Romiſh Religion: and that none may be ſent over that have any kindred or alliances Papiſt Rebels, fearing their taking part with the Rebels rather then againſt them, for the rebellion yet daily ſo increaſeth, that the Kingdom is yet in great danger of utter deſtruction, if God in mercy prevent it not with ſudden ayde and aſſiſt<g ref="char:EOLhyphen"/>ance: The Provinces of <hi>Lemſter</hi> and <hi>Vlſter</hi> are al<g ref="char:EOLhyphen"/>together in ſubjection to the Rebels, of whom Sir <hi>Philemon Oneale</hi> is Generall; who hath lately conſti<g ref="char:EOLhyphen"/>tuted Colonell <hi>Richard Planquet</hi> Lieutenant Gene<g ref="char:EOLhyphen"/>rall of <hi>Lemſter,</hi> and moſt of the North parts of this Kingdome are in their ſubjection. Maſter <hi>Francis Moore</hi> of late hath done valiant Acts in aſſaulting divers of the Rebels, and taking of the grand Tray<g ref="char:EOLhyphen"/>tor
+<pb n="3" facs="tcp:45323:3"/>
+               <hi>Art Roe Mac Mahon,</hi> at a Crete or Cottage neare <hi>Drogheda,</hi> whereof the Right Honourable <hi>Charles</hi> Lord <hi>Moore</hi> is Vicount. Yet nevertheleſſe that many overthrowes have beene given the Rebels in divers places of this Kingdome, as well in the Provinces of <hi>Corke</hi> and <hi>Munſter,</hi> as <hi>Lemſter, Vlſter,</hi> and <hi>Dublin;</hi> yet doe they increaſe in ſtrength, and doe great dammage and harme in all Countries where they have got head, with ſavage and inhu<g ref="char:EOLhyphen"/>mane cruelties, that the moſt barbarous nations in the world (I beleeve) have not done the like; God grant an end to their cruelties for Sion ſake, and his Goſpell and true Religion ſake, that theſe wicked enemies thereof, not ſcarce deſerving the name of humane creatures, may no more triumph over the Saints and ſervants of God, and glory in their own wickedneſſe.</p>
+            <p>We hear newes that the Pope hath ſent to divers Princes as <hi>Spaine</hi> and <hi>France</hi> to take Armes to de<g ref="char:EOLhyphen"/>fend their Religion; in aſſiſting the Catholique Rebels in <hi>Ireland,</hi> by invading the Kingdom with a powerfull Army, or to invade <hi>England,</hi> thereby to hinder the King and Parliament from ſending any more aid hither, but that all their endeavours may be taken up to defend themſelves, and that King<g ref="char:EOLhyphen"/>dom, the Pope alſo, as credibly reported, hath ſent over a generall pardon for all that take Armes in de<g ref="char:EOLhyphen"/>fence of Popery, and have ſent to their Generall, <hi>Philemon Oneale,</hi> a Banner diſplayed, importing their quarrell is onely in defence of the Religion of the Pope and Saint <hi>Peter,</hi> and hath ſent him many pre<g ref="char:EOLhyphen"/>ſents
+<pb n="4" facs="tcp:45323:4"/>of his favour, to animate and encourage him to proceed in his intended enterpriſes, and promi<g ref="char:EOLhyphen"/>ſed that nothing in his power lay ſhould be wanting towards their aſſiſtance and encouragements. There was a battel alſo fought about a week agone between the Scots, Engliſh, and the Rebels, in the Province of <hi>Dublin,</hi> which was fierce and cruell, the Rebels defending themſelves valiantly a long time, but at laſt was vanquiſhed by the Engliſh and Scots, there being about eight thouſand of the Rebels ſlain and many taken Priſoners, there being onely one thouſand of Engliſh and Scots together ſlain; this battell held almoſt two dayes, the chief Command<g ref="char:EOLhyphen"/>ers of the Engliſh was the Lord <hi>Dungarvan,</hi> Sir <hi>Si<g ref="char:EOLhyphen"/>mon Harcoud,</hi> Sir <hi>William Cootes,</hi> and of the Scots Generall <hi>Leſley,</hi> &amp;c. Another ſuch overthrow will much weaken the ſtrength of the Rebels, which we daily pray God would in his good time altogether ſubdue and overthrow to their utter confuſion, or turne their hearts to do that which is right, and give them a ſight of their errours, and diſperate opinions in their falſe idolatrous and ſuperſtitious worſhip<g ref="char:EOLhyphen"/>ping of God, in their blinde and ignorant Religi<g ref="char:EOLhyphen"/>on: and thus much at this time to certifie you of our preſent condition.</p>
+            <p>As alſo their flight from thence upon the com<g ref="char:EOLhyphen"/>ming of Captaine <hi>Pollard,</hi> and ſome <hi>Scotch</hi> regi<g ref="char:EOLhyphen"/>ments againſt them, with the loſſe of the Towne, and all the ammunition to our <hi>Engliſh</hi> forces.</p>
+            <p>Upon the 10. of <hi>February, Anno Dom.</hi> 1642. the Rebels having lately apprehended ſome eigh<g ref="char:EOLhyphen"/>teene
+<pb n="5" facs="tcp:45323:4"/>Proteſtants in the Towne of <hi>Oggerſney,</hi> in the County of <hi>Munſter,</hi> carried them before the Lord <hi>Corton,</hi> who was choſen Lieutenant Generall of their Horſe to be examined as concerning their Religion, which they boldly averred to be the Pro<g ref="char:EOLhyphen"/>teſtant faith, in which they reſolved to live and die, whereupon they were forthwith committed to pri<g ref="char:EOLhyphen"/>ſon, where they lay in a dungeon, enduring great miſery through the abuſe of the ſouldiery that de<g ref="char:EOLhyphen"/>lighted in nothing more than in tormenting them; the principall of all theſe Proteſtants was Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Pellam</hi> who had a ſon in law (being a Recuſant) eldeſt Captain of a horſe-troop in the regiment be<g ref="char:EOLhyphen"/>longing to the Lord <hi>Autrim,</hi> who very earneſtly de<g ref="char:EOLhyphen"/>ſired of the Lord <hi>Corton, Oneale,</hi> and the reſidue of Councell of war, ſitting about that occaſion, that he might ſtand as baile for his fathers appearance, moving it with ſuch zeal and earneſt affection to<g ref="char:EOLhyphen"/>wards his father, that he had almoſt obtained his re<g ref="char:EOLhyphen"/>queſt, untill that one <hi>Dennis Carley</hi> Serjeant Major to the ſaid Regiment, and Captain <hi>Carley</hi> his ne<g ref="char:EOLhyphen"/>phew, with divers other enemies to the Proteſtants, perſwaded the contrary, alleaging that being an ene<g ref="char:EOLhyphen"/>my to their Religion and preſent proceeding, it might be a meanes to his eſcape, and the other his ſon who pleaded for him likewiſe, who ſhewed very little affection to the Church of <hi>Rome</hi> to plead ſo much for a hereticke, though he had been his owne father, therefore they deſired that he might like<g ref="char:EOLhyphen"/>wiſe be examined unleſſe he might be one of their confederacy, which they did, but nothing being
+<pb n="6" facs="tcp:45323:5"/>found wherein that to condemne him, nevertheleſſ he was ſentenced to be committed to cloſe priſon, which the ſouldiers underſtanding of whom he was very much beloved, and conſidering the injuſtice of the cauſe, came with one conſent upon the Coun<g ref="char:EOLhyphen"/>cell of war, and <hi>per fas aut nefas</hi> delivered him, with<g ref="char:EOLhyphen"/>all falling into ſuch an abrupt mutiny, being inſti<g ref="char:EOLhyphen"/>gated and egged forward by Captain <hi>Bolte,</hi> whom they had freed, who was eager of revenge on his ene<g ref="char:EOLhyphen"/>mies, that they deſperately hurt <hi>Oneale,</hi> ſlew both the <hi>Carleyes,</hi> Captain <hi>Sartwell,</hi> and Captain <hi>King,</hi> their companions, and three hundred ſouldiers: he in the mean time getting through the preſſe, gave intelligence to Captain <hi>Pollard</hi> commanding a company of Scots, who with others came to the Town, upon the intelligence of whoſe approach, the Rebels fled, notwithſtanding they ſpared not to vent their ſpleen upon the poor Proteſtants, whom they maſſacred and cut all to pieces, leaving in the Town through haſte and fear of being overtaken the moſt part of their Armes, three ſmall field-pieces with their carriages, ten wagons with ammunition, as alſo the trace horſes to draw them, which proved the ſpoile to the Scotiſh Proteſtants.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Dublin</hi> 17. 1642.</date>
+               </dateline>
+               <signed>
+                  <hi>Yours in all obſervance, to pleaſure you hereafter,</hi> John Peters.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45323:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
